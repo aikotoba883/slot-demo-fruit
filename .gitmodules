@@ -1,0 +1,3 @@
+[submodule "assets/core-engine"]
+	path = assets/core-engine
+	url = git@github.com:aikotoba883/slot-engine-core.git
