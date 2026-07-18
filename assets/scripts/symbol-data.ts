@@ -8,25 +8,27 @@ export class SymbolData extends Component {
     @property(Label)
     symbolName: Label = null;
 
-    symbolConfig = null;
+    currentID: number = null;
     init(): void {
 
     }
-
-    setIcon(symbolID: number): void {
-
+    public setSymbol(symbolID: number): void {
+        this.currentID = symbolID;
+        this.setIcon(this.currentID);
+        this.setName(this.currentID);
     }
-    getIcon(): number {
-        return;
+    private setIcon(symbolID: number): void {
+        this.symbolIcon.spriteFrame = null;
     }
-
-    setName(symbolID: number): void {
-
+    getIcon(): SpriteFrame {
+        return this.symbolIcon.spriteFrame;
     }
-    getName(): number {
-        return;
+    private setName(symbolID: number): void {
+        this.symbolName.string = null;
     }
-
+    getName(): string {
+        return this.symbolName.string;
+    }
     update(deltaTime: number) {
 
     }
