@@ -175,7 +175,7 @@
     "_priority": 0,
     "_fov": 45,
     "_fovAxis": 0,
-    "_orthoHeight": 531.5668789808917,
+    "_orthoHeight": 435.5741127348643,
     "_near": 0,
     "_far": 2000,
     "_color": {
@@ -1081,7 +1081,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 50.70703125,
+      "width": 92.0625,
       "height": 30.240000000000002
     },
     "_anchorPoint": {
@@ -1111,7 +1111,7 @@
       "b": 255,
       "a": 255
     },
-    "_string": "label",
+    "_string": "diamond",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 24,
@@ -1397,7 +1397,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 50.70703125,
+      "width": 66.6796875,
       "height": 30.240000000000002
     },
     "_anchorPoint": {
@@ -1427,7 +1427,7 @@
       "b": 255,
       "a": 255
     },
-    "_string": "label",
+    "_string": "cherry",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 24,
@@ -1713,7 +1713,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 50.70703125,
+      "width": 65.3671875,
       "height": 30.240000000000002
     },
     "_anchorPoint": {
@@ -1743,7 +1743,7 @@
       "b": 33,
       "a": 255
     },
-    "_string": "label",
+    "_string": "lemon",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 24,
@@ -2029,7 +2029,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 50.70703125,
+      "width": 37.359375,
       "height": 30.240000000000002
     },
     "_anchorPoint": {
@@ -2059,7 +2059,7 @@
       "b": 33,
       "a": 255
     },
-    "_string": "label",
+    "_string": "bell",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 24,
@@ -2345,7 +2345,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 50.70703125,
+      "width": 34.6875,
       "height": 30.240000000000002
     },
     "_anchorPoint": {
@@ -2375,7 +2375,7 @@
       "b": 255,
       "a": 255
     },
-    "_string": "label",
+    "_string": "bar",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 24,
@@ -2779,7 +2779,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 50.70703125,
+      "width": 66.6796875,
       "height": 30.240000000000002
     },
     "_anchorPoint": {
@@ -2809,7 +2809,7 @@
       "b": 255,
       "a": 255
     },
-    "_string": "label",
+    "_string": "cherry",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 24,
@@ -3095,7 +3095,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 50.70703125,
+      "width": 65.3671875,
       "height": 30.240000000000002
     },
     "_anchorPoint": {
@@ -3125,7 +3125,7 @@
       "b": 33,
       "a": 255
     },
-    "_string": "label",
+    "_string": "lemon",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 24,
@@ -3411,7 +3411,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 50.70703125,
+      "width": 37.359375,
       "height": 30.240000000000002
     },
     "_anchorPoint": {
@@ -3441,7 +3441,7 @@
       "b": 33,
       "a": 255
     },
-    "_string": "label",
+    "_string": "bell",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 24,
@@ -3727,7 +3727,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 50.70703125,
+      "width": 34.6875,
       "height": 30.240000000000002
     },
     "_anchorPoint": {
@@ -3757,7 +3757,7 @@
       "b": 255,
       "a": 255
     },
-    "_string": "label",
+    "_string": "bar",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 24,
@@ -4043,7 +4043,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 50.70703125,
+      "width": 64.04296875,
       "height": 30.240000000000002
     },
     "_anchorPoint": {
@@ -4073,7 +4073,7 @@
       "b": 255,
       "a": 255
     },
-    "_string": "label",
+    "_string": "seven",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 24,
@@ -4477,7 +4477,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 50.70703125,
+      "width": 65.3671875,
       "height": 30.240000000000002
     },
     "_anchorPoint": {
@@ -4507,7 +4507,7 @@
       "b": 33,
       "a": 255
     },
-    "_string": "label",
+    "_string": "lemon",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 24,
@@ -4793,7 +4793,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 50.70703125,
+      "width": 37.359375,
       "height": 30.240000000000002
     },
     "_anchorPoint": {
@@ -4823,7 +4823,7 @@
       "b": 33,
       "a": 255
     },
-    "_string": "label",
+    "_string": "bell",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 24,
@@ -5109,7 +5109,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 50.70703125,
+      "width": 34.6875,
       "height": 30.240000000000002
     },
     "_anchorPoint": {
@@ -5139,7 +5139,7 @@
       "b": 255,
       "a": 255
     },
-    "_string": "label",
+    "_string": "bar",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 24,
@@ -5425,7 +5425,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 50.70703125,
+      "width": 64.04296875,
       "height": 30.240000000000002
     },
     "_anchorPoint": {
@@ -5455,7 +5455,7 @@
       "b": 255,
       "a": 255
     },
-    "_string": "label",
+    "_string": "seven",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 24,
@@ -5741,7 +5741,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 50.70703125,
+      "width": 92.0625,
       "height": 30.240000000000002
     },
     "_anchorPoint": {
@@ -5771,7 +5771,7 @@
       "b": 255,
       "a": 255
     },
-    "_string": "label",
+    "_string": "diamond",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 24,
@@ -6175,7 +6175,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 50.70703125,
+      "width": 37.359375,
       "height": 30.240000000000002
     },
     "_anchorPoint": {
@@ -6205,7 +6205,7 @@
       "b": 33,
       "a": 255
     },
-    "_string": "label",
+    "_string": "bell",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 24,
@@ -6491,7 +6491,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 50.70703125,
+      "width": 34.6875,
       "height": 30.240000000000002
     },
     "_anchorPoint": {
@@ -6521,7 +6521,7 @@
       "b": 255,
       "a": 255
     },
-    "_string": "label",
+    "_string": "bar",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 24,
@@ -6807,7 +6807,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 50.70703125,
+      "width": 64.04296875,
       "height": 30.240000000000002
     },
     "_anchorPoint": {
@@ -6837,7 +6837,7 @@
       "b": 255,
       "a": 255
     },
-    "_string": "label",
+    "_string": "seven",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 24,
@@ -7123,7 +7123,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 50.70703125,
+      "width": 92.0625,
       "height": 30.240000000000002
     },
     "_anchorPoint": {
@@ -7153,7 +7153,7 @@
       "b": 255,
       "a": 255
     },
-    "_string": "label",
+    "_string": "diamond",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 24,
@@ -7439,7 +7439,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 50.70703125,
+      "width": 66.6796875,
       "height": 30.240000000000002
     },
     "_anchorPoint": {
@@ -7469,7 +7469,7 @@
       "b": 255,
       "a": 255
     },
-    "_string": "label",
+    "_string": "cherry",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 24,
@@ -7873,7 +7873,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 50.70703125,
+      "width": 34.6875,
       "height": 30.240000000000002
     },
     "_anchorPoint": {
@@ -7903,7 +7903,7 @@
       "b": 255,
       "a": 255
     },
-    "_string": "label",
+    "_string": "bar",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 24,
@@ -8189,7 +8189,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 50.70703125,
+      "width": 64.04296875,
       "height": 30.240000000000002
     },
     "_anchorPoint": {
@@ -8219,7 +8219,7 @@
       "b": 255,
       "a": 255
     },
-    "_string": "label",
+    "_string": "seven",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 24,
@@ -8505,7 +8505,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 50.70703125,
+      "width": 92.0625,
       "height": 30.240000000000002
     },
     "_anchorPoint": {
@@ -8535,7 +8535,7 @@
       "b": 255,
       "a": 255
     },
-    "_string": "label",
+    "_string": "diamond",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 24,
@@ -8821,7 +8821,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 50.70703125,
+      "width": 66.6796875,
       "height": 30.240000000000002
     },
     "_anchorPoint": {
@@ -8851,7 +8851,7 @@
       "b": 255,
       "a": 255
     },
-    "_string": "label",
+    "_string": "cherry",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 24,
@@ -9137,7 +9137,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 50.70703125,
+      "width": 65.3671875,
       "height": 30.240000000000002
     },
     "_anchorPoint": {
@@ -9167,7 +9167,7 @@
       "b": 33,
       "a": 255
     },
-    "_string": "label",
+    "_string": "lemon",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 24,
